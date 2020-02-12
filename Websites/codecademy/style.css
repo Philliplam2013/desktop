@@ -1,0 +1,45 @@
+.navbar {
+    height: 100px;
+    background-color: black;
+    
+}
+
+
+.nav-item {
+    list-style: none;
+    float: left;
+    color:  white;
+    padding: 10px;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.navbar-logo {
+    height: 100px;
+}
+
+.KTM {
+   width: 100%;
+  }
+
+
+  .start {
+      width: 33%;
+  }
+
+  .blance {
+      width: 33%;
+  }
+
+
+
+
+
+
+
+  .hq {
+      
+      width: 100%;
+  }

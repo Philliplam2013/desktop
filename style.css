@@ -1,0 +1,234 @@
+a:hover {
+    background-color: white;
+  }
+
+.navbar {
+    height: 100px;
+    background-color: black;
+    
+}
+
+
+.nav-item {
+    font-style: italic;
+    list-style: none;
+    float: left;
+    color: white;
+    padding: 10px;
+    /*
+    background-color: black;
+    border: 5px solid white;
+    
+    */ 
+}
+
+
+/*
+.nav-item:hover  {
+border: dotted green;
+
+}
+*/
+
+
+
+
+
+.navbar-nav {
+    float: right;
+}
+
+.navbar-logo {
+    height: 100px;
+}
+
+.KTM {
+   width: 100%;
+     
+  }
+
+
+  .start {
+      width: 33%;
+  }
+
+  .blance {
+      width: 33%;
+  }
+
+
+
+
+
+
+
+  .hq {
+      
+      width: 100%;
+  }
+
+/*
+.hero-img {
+    background-image: url();
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}            */
+
+
+/* CONTACT STYLE */
+
+.phoneimg {
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+
+.email {
+    float: left;
+    
+}
+
+.emailimg {
+    height: 100px;
+    width: 100px;
+    
+    }
+
+    .navbar2 {
+        height: 100px;
+        background-color: white;
+        
+    }
+
+
+    /* FOOTER */
+
+    .end {
+        background-color:black
+        height: 100px;
+        width: 100px;
+    }
+
+
+    .footer-item {
+     float: right;
+     margin-left: 510px;
+    }
+
+    .footer-item2 {
+        float: right;
+        font-size: 20px;
+    }
+
+
+    
+    .home-content {
+        height: 600px;
+        width: 100%;
+        background-color: grey;
+    }
+
+
+    .content-img {
+        height: 400px;
+        width: 470px;
+        background-image: url(/img/front.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        position: relative;
+        top: 80px;
+        left: 150px;
+    }
+
+    .content-para {
+        height: 400px;
+        width: 270px;
+        background-color: lightgray;
+        position: relative;
+        top: 80px;
+        left: 100px;
+    }
+
+    body {
+        font-family: 'ABeeZee', sans-serif;
+    }
+
+.contact2 {
+    font-size: 50px;
+}
+
+.column {
+    width: 50%;
+    float:left;
+}
+
+
+
+.aboutcontainer {
+    height: 800px;
+    width: 700px;
+    margin-top: 120px;
+    margin-bottom: 20px;
+
+}
+
+.aboutcolumn {
+    width: 100%;
+    border: 2px solid black;
+    float: left;
+    padding: 25px 20px;
+    margin-left: 20px;
+    overflow: hidden;
+    text-align: center;
+
+    
+}
+
+
+.about-img {
+    height: 300px;
+    width: 250px;
+    margin: auto;
+}
+
+.aboutaudio {
+    margin-bottom: 250px;
+}
+
+
+
+.aboutbutton {
+    box-shadow: 2px 2px brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
